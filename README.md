@@ -2,12 +2,11 @@
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [Abstract](#abstract)
 - [Deployed Link](#deployed-link])
 - [Illustrations](#illustrations)
 - [Technologies Used](#technologies-used)
-- [Application & Component Wireframes](#application-and-component-wireframes)
+- [Application](#application)
 - [Context and Features](#context-and-features)
 - [User Stories](#user-stories)
 - [Lessons Learned](#lessons-learned)
@@ -28,9 +27,7 @@
 
 ![200](https://user-images.githubusercontent.com/98493391/182264909-a62c2156-6bd4-4378-bc95-ee81598e98c7.gif)
 
-## Application Wireframe and Component Architecture
-
-### Application Wireframes
+## Application Wireframe 
 
 ![Curious Reader Wireframe](https://user-images.githubusercontent.com/98415017/182945106-5401e916-471c-491a-b0ba-d7696bc81e8b.png)
 
