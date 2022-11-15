@@ -21,7 +21,7 @@
 
 ## Deployed Link
 
-- Check out our application [here!](https://curious-reader.herokuapp.com/) 
+- Check out our application [here!](https://curious-reader.vercel.app/) 
 
 ## Illustrations
 
